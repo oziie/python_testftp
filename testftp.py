@@ -6,8 +6,8 @@ import threading
 
 new_version = "7705-TiMOS-6.2.R8"
 hosts = [
-    {'address' :"172.29.11.43",'user':'admin','passwd':'gnegpec' },
-    ##{'address' :"172.29.11.53",'user':'admin','passwd':'admin' },
+    {'address' :"x.x.x.x",'user':'xxxx','passwd':'xxxx' },
+    ##{'address' :"x.x.x.x",'user':'xxxx','passwd':'xxxx' },
 ]
 
 #THE METHOD WHICH IS TRIGGER THE OTHER PROCESSES(FTP Connection,FTP Upload,SSH Connection,SSH Upgrade)
